@@ -4,7 +4,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <p>Your app description page.</p>
+    <p>Your app description page. Asarawut</p>
     <p>Use this area to provide additional information.</p>
     <p>
         <asp:Button ID="Button1" runat="server" Text="Button" />
